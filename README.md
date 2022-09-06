@@ -1,2 +1,2 @@
 # Altschool-Cloud-Assignment
-Timezone Assignment: https://github.com/DayoSonibare/Altschool-Cloud-Assignment/blob/4e911b28f36fc4a772fff20b18c9acc82032f341/Timezones.PNG
+Timezone Assignment: ![Timezones](https://user-images.githubusercontent.com/109345986/188715758-ca91ceed-b268-4994-85bb-1ca71a081923.PNG)
